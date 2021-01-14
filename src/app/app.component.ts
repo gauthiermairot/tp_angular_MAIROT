@@ -20,6 +20,7 @@ import { MatSnackBar } from "@angular/material/snack-bar";
     `
   ]
 })
+
 export class AppComponent {
   durationInSeconds = 5;
 
